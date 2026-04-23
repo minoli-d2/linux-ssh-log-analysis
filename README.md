@@ -1,6 +1,6 @@
-# 🛡️ SSH Log Analysis – Brute Force Detection Project
+#  SSH Log Analysis – Brute Force Detection Project
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates a practical cybersecurity investigation of SSH authentication logs to detect brute-force attacks, identify suspicious login behavior, and assess system compromise.
 
@@ -8,7 +8,7 @@ The analysis simulates a real-world Security Operations Center (SOC) workflow us
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Detect brute-force attacks from log data
 * Identify suspicious or reconnaissance activity
@@ -17,7 +17,7 @@ The analysis simulates a real-world Security Operations Center (SOC) workflow us
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 * Kali Linux (Virtual Machine)
 * Linux CLI tools: `grep`, `awk`, `sort`, `uniq`
@@ -25,7 +25,7 @@ The analysis simulates a real-world Security Operations Center (SOC) workflow us
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 linux-ssh-log-analysis/
@@ -45,7 +45,7 @@ linux-ssh-log-analysis/
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### 🔴 Brute-Force Attack Detected
 
@@ -76,7 +76,7 @@ linux-ssh-log-analysis/
 
 ---
 
-## 🧠 Investigation Approach
+##  Investigation Approach
 
 1. Extract failed login attempts
 2. Identify top attacking IPs
@@ -86,7 +86,7 @@ linux-ssh-log-analysis/
 
 ---
 
-## 🚨 Security Assessment
+##  Security Assessment
 
 * Brute-force attack detected but unsuccessful
 * No unauthorized access observed
@@ -94,7 +94,7 @@ linux-ssh-log-analysis/
 
 ---
 
-## 🔐 Recommendations
+##  Recommendations
 
 * Disable root login over SSH
 * Implement key-based authentication
@@ -103,13 +103,13 @@ linux-ssh-log-analysis/
 
 ---
 
-## 📸 Evidence
+##  Evidence
 
 Screenshots and full terminal session logs are included to support the analysis.
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 * Real-world log analysis using Linux tools
 * Detecting brute-force patterns through timing and frequency
@@ -118,7 +118,7 @@ Screenshots and full terminal session logs are included to support the analysis.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Automate detection using scripts
 * Integrate logs into SIEM tools (e.g., Splunk)
@@ -127,7 +127,7 @@ Screenshots and full terminal session logs are included to support the analysis.
 
 ---
 
-## 👤 Author
+##  Author
 
 Minoli Silva
 Cybersecurity Enthusiast | Aspiring SOC Analyst

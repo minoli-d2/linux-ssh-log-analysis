@@ -1,4 +1,4 @@
-# 🛡️ Security Incident Report – SSH Authentication Log Analysis
+#  Security Incident Report – SSH Authentication Log Analysis
 
 ## 1. Executive Summary
 This report presents an analysis of SSH authentication logs to identify unauthorized access attempts, brute-force attacks, and potential reconnaissance activity. The investigation reveals multiple external login attempts, including a concentrated brute-force attack pattern. No evidence of successful external system compromise was detected.
